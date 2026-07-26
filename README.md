@@ -1,8 +1,6 @@
 # Project-MSIS
 Implemented the complete RTL-to-GDSII flow for an I²C Controller at 45nm
 
-#### I²C RTL-to-GDSII Physical Design (45nm)####
-
 Complete digital implementation flow of an I²C Controller, taken from RTL to final 
 GDSII layout at 45nm technology node.
 
